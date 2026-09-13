@@ -47,3 +47,12 @@ Weatherapp/
 ├── style.css
 ├── script.js
 └── README.md
+
+## How to Run the Project 
+1. Clone or download this repository. 
+2. Open the project folder. 
+3. Open `index.html` in a web browser. 
+4. You can also run the project using the VS Code Live Server extension. 
+5. Enter a city name in the search field. 
+6. Click the **Search** button. 
+7. The current temperature and weather condition will appear.
