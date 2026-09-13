@@ -35,4 +35,15 @@ While building this project, I learned:
 - How to convert an API response into JSON
 - How to inspect an API response using `console.log()`
 - How to access values inside JavaScript objects and arrays
-- How to dynamically
+- How to dynamically update HTML content
+- How to create layouts using CSS Flexbox
+- How to create gradients and glassmorphism effects
+- How to add hover effects using `transition` and `transform`
+
+## Project Structure
+
+Weatherapp/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
